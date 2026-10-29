@@ -4,7 +4,7 @@ public class Triangle06 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Masukkan nilai n = ");
+        System.out.print("Masukkan nilai n = ");
         int n = sc.nextInt();
 
         // Segitiga normal
@@ -18,7 +18,6 @@ public class Triangle06 {
             System.out.println();
             i++;
         }
-
         // Segitiga terbalik 
         i = n;
 
