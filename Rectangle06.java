@@ -15,5 +15,6 @@ public class Rectangle06 {
             System.out.println();
         }
         sc.close();
+        // Biar bisa di Commit dan sebelum adanya modifikasi
     }
 }
