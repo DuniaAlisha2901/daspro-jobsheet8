@@ -47,6 +47,7 @@ public class NilaiKelompok06 {
             System.out.println("==============================");
             System.out.println("Kelompok terbaik    : " + kelompokTerbaik);
             System.out.println("Rata-rata tertinggi : " + rataTertinggi);
+            sc.close();
         }
     }
 }
