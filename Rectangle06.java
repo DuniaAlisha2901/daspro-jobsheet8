@@ -8,13 +8,13 @@ public class Rectangle06 {
         System.out.print("Masukkan jumlah kolom: ");
         int kolom = sc.nextInt();
 
-        for (int i = 1; i <= baris; i++) {
-            for (int j = 0; j <= kolom; j++) {
+        for (int i = 1; i <= kolom; i++) {
+            for (int j = 1; j <= baris; j++) {
                 System.out.print("*");
             }
             System.out.println();
         }
         sc.close();
-        // Biar bisa di Commit dan sebelum adanya modifikasi
+        // telah dimodifikasi sesuai dengan perintah pada soal
     }
 }
