@@ -11,5 +11,7 @@ public class Star06 {
         }
         System.out.println();
         sc.close();
+
+        // Biar bisa di commit
     }
 }
